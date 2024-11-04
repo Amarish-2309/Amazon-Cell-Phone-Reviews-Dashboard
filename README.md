@@ -19,11 +19,14 @@ Another section of the project is at this Github Repository: https://github.com/
   
 Summary- The Amazon Mobile Phone Reviews project analyzes customer reviews of mobile phones on Amazon to extract valuable insights. It collects and preprocesses a dataset of reviews, applies data analytics techniques like sentiment analysis and text mining to understand customer feedback and preferences. The project also utilizes data visualization to present the findings effectively. The output includes a comprehensive report with analysis results, customer sentiments, prevalent themes, and recommendations. This information helps businesses make data-driven decisions to enhance their product offerings and improve customer satisfaction in the competitive mobile phone market.
 
-![Screenshot (5804)](https://github.com/9889AdeebaRashid/Amazon-Cell-Phone-Reviews-main/assets/80636537/3bcfda42-11b3-42b8-b059-b48ead40ede0)
+![image](https://github.com/user-attachments/assets/47ef56ed-8e59-4121-95e5-7577e12b8176)
 
-![Screenshot (5805)](https://github.com/9889AdeebaRashid/Amazon-Cell-Phone-Reviews-main/assets/80636537/d0840b28-e4a8-4c29-b27f-24eaba2caaa4)
 
-![Screenshot (5806)](https://github.com/9889AdeebaRashid/Amazon-Cell-Phone-Reviews-main/assets/80636537/fff67f06-4a85-4b16-b368-f851cebd9f6e)
+![image](https://github.com/user-attachments/assets/fab5f92a-829d-46b5-bfa5-672c9ecbef88)
+
+
+![image](https://github.com/user-attachments/assets/71375201-1ae9-4268-a559-e1ecdd1ad962)
+
 
 
 
