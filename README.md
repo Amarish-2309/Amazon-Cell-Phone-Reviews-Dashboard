@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1cwXDr9jvZlIkStsqDqJ_5eyd2LPRG3FM/view?usp=drive
 
 Team Member - A project submitted by
 
-AKSHAT SINGH (20BCG10017 - BHOPAL)
+AMARISH KUMAR SRIVASTAVA (20BCE10292 –BHOPAL) 
 
 INSHA FATIMA (20BEE0372 - VELLORE)
 
